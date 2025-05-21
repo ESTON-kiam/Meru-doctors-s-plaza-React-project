@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import '../App.css';
 
 function Home() {
   return (
@@ -8,7 +8,7 @@ function Home() {
         <div className="hero-content">
           <h2>Your Health is Our Priority</h2>
           <p>Providing exceptional healthcare services to the Meru community</p>
-          <button className="cta-button">Book an Appointment</button>
+          
         </div>
       </section>
 
